@@ -6,14 +6,14 @@ Machine Learning is widely used in various industries worldwide, and the automob
 # Objective
 The primary objective of this project is to compare the performance of various Machine Learning regression algorithms in predicting the price of used cars. The algorithms under consideration are:
 
-Linear Regression
-Ridge Regression
-Lasso Regression
-Support Vector Regression
-Decision Tree Regression
-KNeighborsRegressor
-CatBoostRegressor
-Random Forest Regression
+- Linear Regression
+- Ridge Regression
+- Lasso Regression
+- Support Vector Regression
+- Decision Tree Regression
+- KNeighborsRegressor
+- CatBoostRegressor
+- Random Forest Regression
 
 # Dataset
 The dataset used for this study is a publicly available collection of used car listings. It includes information about various car attributes such as make, model, year, features, mileage, and price. The dataset is preprocessed and cleaned to ensure reliable results.
